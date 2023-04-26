@@ -10,9 +10,9 @@
                         <ul class="list-inline">
                             
                             <li class="d-sm-block d-lg-inline mb-sm-3 mb-lg-0 mr-sm-0 mr-lg-4"><i
-                                    class="mx-2 fas fa-map-pin"></i>Greater Jaipur Area, India</li> | 
+                                    class="mx-2 fas fa-map-pin"></i>Vadodara Gujarat, India</li> | 
                             <li class="d-sm-block d-lg-inline"><i
-                                    class="mx-2 far fa-envelope-open"></i>contact@aerocraft.co.in</li>
+                                    class="mx-2 far fa-envelope-open"></i>harshitprasad1906@gmail.com</li>
                         </ul>
                     </div>
                     </p>
